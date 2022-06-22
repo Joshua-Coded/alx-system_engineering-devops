@@ -1,2 +1,8 @@
 0 string School School data
 !:mime School
+fake_school0:   ASCII text
+fake_school1: ASCII text
+file_school0:   School data
+file_school1: School data
+file_test0:
+h_school.mgc: data
