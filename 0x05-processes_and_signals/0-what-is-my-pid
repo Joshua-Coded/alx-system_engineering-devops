@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# checking for pid
+
+ps
