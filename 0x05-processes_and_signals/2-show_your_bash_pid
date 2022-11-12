@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#bash as a last word
+#shellcheck disable=sc2009
+
+ps u | grep bash
