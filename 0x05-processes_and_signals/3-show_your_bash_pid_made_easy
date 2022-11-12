@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 #show your bash pid made easy
 
-
-pgrep -fix ".*bash."
+pgrep -fix ".*bash.*"
