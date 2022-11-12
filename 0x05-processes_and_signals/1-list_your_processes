@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#checking all my processes
+# checking all my processes
 
 top
