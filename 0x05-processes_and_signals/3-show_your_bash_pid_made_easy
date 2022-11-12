@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-#show your bash pid made easy
-
-pgrep -fix ".*bash.*"
+# Displays the PID and name of processes whose name contain 'bash'
+pgrep -flx ".*bash.*"
