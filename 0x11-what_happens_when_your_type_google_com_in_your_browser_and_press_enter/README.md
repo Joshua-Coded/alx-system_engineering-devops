@@ -20,7 +20,7 @@ Requirements, your post must cover:
 - Application server
 - Database
 
-I wrote [this](https://betascribbles.hashnode.dev/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter) article.
+I wrote [this](https://joshbam-joshwilly.hashnode.dev/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter) article.
 
 ## Task 2
 <p>Add a schema to your blog post illustrating the flow of the request created when you type https://www.google.com in your browser and press Enter.</p>
@@ -36,4 +36,4 @@ The diagram should show:
 - that the application server generates the web page
 - that the application server request data from the database
 
-The image diagram I made is [here](https://github.com/betascribbles/alx-system_engineering-devops/blob/main/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.jpeg)
+The image diagram I made is [here](https://github.com/joshbam-joshwilly/alx-system_engineering-devops/blob/main/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram.jpeg)
