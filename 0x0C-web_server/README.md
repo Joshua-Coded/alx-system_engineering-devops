@@ -1,2 +1,2 @@
-Joshua Alana
-web server
+jOSHUA ALANA
+WEB SERVER
